@@ -14,7 +14,7 @@ setup(
     description="Automated dbt YAML schema generator with data governance for ClickHouse",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/miswag/miswag-dbt-yml",
+    url="https://github.com/hameeddataeng/miswag-dbt-yml",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
